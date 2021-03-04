@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Cours6-HttpRequest</string>
     <string name="stop">Stop</string>
+    <string name="sorry_an_error_occurred">Sorry an error occurred</string>
 </resources>
